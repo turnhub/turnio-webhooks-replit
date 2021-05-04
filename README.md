@@ -6,7 +6,11 @@ For this to work you need to set a Turn API token named `TOKEN` as a secret in R
 
 ## How to run this Repl.it example
 
-First log-in to your account on Turn, for most this will be at https://app.turn.io. If you're on a private cloud setup then please reach out to Turn.io Support via WhatsApp if you're unsure about the address of your Turn installation.
+Click the `Run on Repl.it` button below to install this code example into your Repl.it workspace. Repl.it creates a free workspace for you to do this in.
+
+[![Run on Repl.it](https://repl.it/badge/github/turnhub/turnio-webhooks-replit)](https://repl.it/github/turnhub/turnio-webhooks-replit)
+
+Then log-in to your account on Turn. For most this will be at https://app.turn.io. If you're on a private cloud setup then please reach out to Turn.io Support via WhatsApp if you're unsure about the address of your Turn installation.
 
 ![Go to Settings](./screenshot-1.png)
 
@@ -51,4 +55,3 @@ Now any messages you send to your WhatsApp number (this includes any sandbox num
 
 The default example will attempt to retrieve a result from the [DuckDuckGo](https://duckduckgo.com) search engine and send it as a text reply via WhatsApp.
 
-[![Run on Repl.it](https://repl.it/badge/github/turnhub/turnio-webhooks-replit)](https://repl.it/github/turnhub/turnio-webhooks-replit)
