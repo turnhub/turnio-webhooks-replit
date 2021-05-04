@@ -6,7 +6,7 @@ For this to work you need to set a Turn API token named `TOKEN` as a secret in R
 
 ## How to run this Repl.it example
 
-Click the `Run on Repl.it` button below to install this code example into your Repl.it workspace. Repl.it creates a free workspace for you to do this in.
+Click the `Run on Repl.it` button below to install this code example into your Repl.it workspace. Repl.it creates a free workspace for you to do this in. If you don't have an account yet, you can create one in the process at no cost or further commitments.
 
 [![Run on Repl.it](https://repl.it/badge/github/turnhub/turnio-webhooks-replit)](https://repl.it/github/turnhub/turnio-webhooks-replit)
 
